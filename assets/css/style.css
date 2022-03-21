@@ -1,5 +1,14 @@
 body {
     padding: 0rem;
     margin: 0rem;
-    padding-top: 1.25rem;
+    padding-top: 15px;
+}
+
+.containerHeader{
+    display: flex;
+    height: 69px;
+}
+
+#logoHeader{
+    padding-left: 15px;
 }
