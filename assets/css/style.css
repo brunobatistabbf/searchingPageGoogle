@@ -75,8 +75,9 @@ body {
     padding-right: .625rem;
 }
 .containerButtonsHeader{
-  padding-top: 20px;
-  padding-bottom: 9px;
+    margin-left: 200px;
+    padding-top: 20px;
+    padding-bottom: 9px;
 }
 
 .buttonsIconsHeader a{
@@ -84,6 +85,21 @@ body {
     color: #5f6368;
 }
 
+.buttonsIconsHeader a img{
+    padding-top: 6px;
+    padding-right: 7px;
+}
+
 .containerButtonsHeader{
     display: flex;
+}
+
+#containerFerramentas {
+    padding-top: 10px;
+    padding-left: 60px;
+}
+
+#containerFerramentas a{
+    text-decoration: none;
+    color: #5f6368;
 }
