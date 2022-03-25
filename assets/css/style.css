@@ -65,18 +65,19 @@ body {
 
 /* Menu Header */
 .containerMenuHeader{
-    font-size: 14px;
-    height: 58px;
+    font-size: .875rem;
+    height: 3.625rem;
     border-bottom:1px solid rgb(218, 218, 218); ;
 }
 
 #iconMenu{
+    padding-top: .3125rem;
     padding-left: .625rem;
     padding-right: .625rem;
 }
 .containerButtonsHeader{
-    margin-left: 200px;
-    padding-top: 20px;
+    margin-left: 12.5rem;
+    padding-top: 1.25rem;
     padding-bottom: 9px;
 }
 
@@ -86,8 +87,8 @@ body {
 }
 
 .buttonsIconsHeader a img{
-    padding-top: 6px;
-    padding-right: 7px;
+    padding-top: .375rem;
+    padding-right: .4375rem;
 }
 
 .containerButtonsHeader{
@@ -95,8 +96,8 @@ body {
 }
 
 #containerFerramentas {
-    padding-top: 10px;
-    padding-left: 60px;
+    padding-top: .625rem;
+    padding-left: 3.75rem;
 }
 
 #containerFerramentas a{
