@@ -1,7 +1,9 @@
 body {
+    background-color: white;
     padding: 0rem;
     margin: 0rem;
     padding-top: .9375rem;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .containerHeader{
@@ -11,4 +13,41 @@ body {
 
 #logoHeader{
     padding-left: .9375rem;
+}
+
+#barraHeader{
+    display: flex;
+    border-radius: 1.875rem;
+    border:  1px solid #d8d8d8;
+    width: 692px;   
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding-top: .3125rem;
+    padding-left: .875rem;
+    padding-right: .5rem;
+    box-shadow: 0px 0px 3px 3px rgba(202, 202, 202, 0.2);
+}
+
+#barraHeader:hover{
+    box-shadow: 1px 1px 3px 3px rgba(173, 173, 173, 0.2);
+}
+
+#barraHeader input{
+    
+    border: 0 none;
+    outline: 0;
+    width: 27.9375rem;
+    margin-bottom: .3125rem;
+    margin-left: .3125rem;
+}
+
+
+
+#iconsdiv{
+    margin-left: 70px;
+}
+
+#iconsSearch{
+    padding: 7px;
 }
