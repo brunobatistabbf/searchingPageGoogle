@@ -42,12 +42,19 @@ body {
     margin-left: .3125rem;
 }
 
-
-
 #iconsdiv{
     margin-left: 70px;
 }
 
 #iconsSearch{
     padding: 7px;
+}
+
+#iconsHeader{
+    padding-top: 20px;
+    margin-left: 400px;
+}
+
+#iconesHeaderImg{
+    padding: 8px;
 }
