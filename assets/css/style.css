@@ -104,3 +104,46 @@ body {
     text-decoration: none;
     color: #5f6368;
 }
+
+.containerPesquisas{
+    height: 43px;
+}
+
+#containerPesquisas{
+    height: 43px;
+    margin-left: 210px ;
+}
+
+#containerPesquisas p{
+    color: #70757A;
+    font-size: 14px;
+}
+
+/*Content Area*/
+.containerContent{
+    width: 652px;
+    margin-left: 210px;
+}
+
+#containerContent{
+    margin-bottom: 2.5rem;
+}
+
+#contentLink{
+    font-size: 14px;
+    color: black;
+    padding: .0625rem;
+    margin-bottom: .3125rem;
+}
+
+#contentTitle a{
+    text-decoration: none;
+    font-size: 1.25rem;
+    color: #1A0DAB;
+
+}
+
+#contentDescription{
+    color: #4D5156;
+    font-size: .875rem;
+}
