@@ -178,3 +178,63 @@ body {
     color: #202124;
     font-size: 22px;
 }
+
+/*numero de paginas*/
+.containerNumberOfPages{
+    margin-left: 410px;
+    margin-bottom: 30px;
+    padding: 30px;
+}
+
+#black{
+    color: #202124;
+}
+
+#espacoRe{
+    margin-left: 30px;
+}
+
+.containerNumberOfPages a{
+    text-decoration: none;
+    color: #4285F4;
+    font-size: 14px;
+    margin: 4px;
+}
+
+/*Footer*/
+.containerFooter{
+    height: 95px;
+    background-color: #F2F2F2;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+#footerFirst{
+    height: 30px;
+    border-bottom:1px solid rgb(226, 226, 226);;
+    margin-left: 210px;
+    padding-top: 10px;
+    color: #70757A;
+}
+
+#footerSecond{
+    margin-left: 210px;
+    height: 20px;
+    display: flex;
+    padding-top: 20px;
+    color: #70757A;
+}
+
+#footerFirst a{
+    text-decoration: none;
+    color: #4285F4;
+}
+
+#footerSecond a{
+    text-decoration: none;
+    color: #70757A;
+}
+
+#butoesFooter{
+    margin-right: 20px;
+}
