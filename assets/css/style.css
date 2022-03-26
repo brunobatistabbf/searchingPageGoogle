@@ -19,10 +19,10 @@ body {
     display: flex;
     border-radius: 1.875rem;
     border:  1px solid #d8d8d8;
-    width: 692px;   
-    height: 40px;
-    margin-left: 50px;
-    margin-top: 20px;
+    width: 43.25rem;   
+    height: 2.5rem;
+    margin-left: 50rem;
+    margin-top: 1.25rem;
     padding-top: .3125rem;
     padding-left: .875rem;
     padding-right: .5rem;
@@ -78,7 +78,7 @@ body {
 .containerButtonsHeader{
     margin-left: 12.5rem;
     padding-top: 1.25rem;
-    padding-bottom: 9px;
+    padding-bottom: .5625rem;
 }
 
 .buttonsIconsHeader a{
@@ -106,23 +106,23 @@ body {
 }
 
 .containerPesquisas{
-    height: 43px;
+    height: 2.6875rem;
 }
 
 #containerPesquisas{
-    height: 43px;
-    margin-left: 210px ;
+    height: 2.6875rem;
+    margin-left: 13.125rem ;
 }
 
 #containerPesquisas p{
     color: #70757A;
-    font-size: 14px;
+    font-size: .875rem;
 }
 
 /*Content Area*/
 .containerContent{
-    width: 652px;
-    margin-left: 210px;
+    width: 40.75rem;
+    margin-left: 13.125rem;
 }
 
 #containerContent{
@@ -130,7 +130,7 @@ body {
 }
 
 #contentLink{
-    font-size: 14px;
+    font-size: .875rem;
     color: black;
     padding: .0625rem;
     margin-bottom: .3125rem;
@@ -149,41 +149,41 @@ body {
 }
 /*Searches*/
 .containerSearches{
-    height: 266px;
-    width: 652px;
+    height: 16.625rem;
+    width: 40.75rem;
     margin-left: 0px;
     
 }
 
 #containerSearches{
     display: flex;
-    margin: 4px;
-    margin-left: 10px;
+    margin: .25rem;
+    margin-left: .625rem;
 }
 
 .optionsSearches{
     display: flex;
     background-color: #F1F3F4;
-    margin: 10px;
-    height: 48px;
-    width: 300px;
-    border-radius: 24px;
+    margin: .625rem;
+    height: 3rem;
+    width: 18.75rem;
+    border-radius: 1.5rem;
 }
 
 .optionsSearches p{
-    padding-left: 25px;
+    padding-left: 1.5625rem;
 }
 
 #titleSearches{
     color: #202124;
-    font-size: 22px;
+    font-size: 1.375rem;
 }
 
 /*numero de paginas*/
 .containerNumberOfPages{
-    margin-left: 410px;
-    margin-bottom: 30px;
-    padding: 30px;
+    margin-left: 25.625rem;
+    margin-bottom: 1.875rem;
+    padding: 1.875rem;
 }
 
 #black{
@@ -191,35 +191,35 @@ body {
 }
 
 #espacoRe{
-    margin-left: 30px;
+    margin-left: 1.875rem;
 }
 
 .containerNumberOfPages a{
     text-decoration: none;
     color: #4285F4;
-    font-size: 14px;
-    margin: 4px;
+    font-size: .875rem;
+    margin: .25rem;
 }
 
 /*Footer*/
 .containerFooter{
-    height: 95px;
+    height: 5.9375rem;
     background-color: #F2F2F2;
-    padding-top: 12px;
-    padding-bottom: 12px;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
 }
 
 #footerFirst{
-    height: 30px;
+    height: 1.875rem;
     border-bottom:1px solid rgb(226, 226, 226);;
-    margin-left: 210px;
-    padding-top: 10px;
+    margin-left: 13.125rem;
+    padding-top: .625rem;
     color: #70757A;
 }
 
 #footerSecond{
-    margin-left: 210px;
-    height: 20px;
+    margin-left: 13.125rem;
+    height: 1.25rem;
     display: flex;
     padding-top: 20px;
     color: #70757A;
@@ -236,5 +236,5 @@ body {
 }
 
 #butoesFooter{
-    margin-right: 20px;
+    margin-right: 1.25rem;
 }
